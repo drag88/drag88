@@ -27,7 +27,7 @@ Additionally, I hold the perspective that cutting-edge algorithms are not always
 
 [<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][github]
 [<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][github]
-[<img align="left" alt="Spark" width="32px" src="https://www.google.com/search?client=firefox-b-d&q=spark+logo+32#imgrc=CvWVGFCAF1TZOM" />][github]
+[<img align="left" alt="Spark" src="https://github.com/ngupta23/ngupta23/blob/master/logo/linkedin/Apache_Spark_logo.svg" />][github]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
