@@ -3,7 +3,7 @@
   <a href="https://twitter.com/drag88" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Aswin-blue?logo=twitter" /></a>
 </p>
 
-## Hi there, I'm Aswin. Welcome to my Github page!
+## Hi there, I'm Aswin 🙌. Welcome to my Github page!
 
 **I am an "impact driven" data professional focused on solving real world problems leveraging art and science of data.**
 
@@ -30,45 +30,9 @@ Additionally, I hold the perspective that cutting-edge algorithms are not always
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Aswin | LinkedIn" width="32px" src="https://github.com/ngupta23/ngupta23/blob/master/logo/linkedin/LI-In-Bug.png" />][linkedin]
 
-<br />
-
----
-
-### 📕 StackOverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-
-- [Answer by Nikhil Gupta for How to resolve cx_Oracle.DatabaseError: DPI-1043: invalid number error?](https://stackoverflow.com/questions/60071546/how-to-resolve-cx-oracle-databaseerror-dpi-1043-invalid-number-error/69487417#69487417)
-- [Answer by Nikhil Gupta for How to use tryCatch with withTimeout to timeout Rcpp function without stopping execution of script](https://stackoverflow.com/questions/67636203/how-to-use-trycatch-with-withtimeout-to-timeout-rcpp-function-without-stopping-e/67636978#67636978)
-- [Answer by Nikhil Gupta for PySpark custom UDF ModuleNotFoundError: No module named](https://stackoverflow.com/questions/59741832/pyspark-custom-udf-modulenotfounderror-no-module-named/66546933#66546933)
-- [Answer by Nikhil Gupta for How to let new and old subscribers sign up to a Mailchimp segment](https://stackoverflow.com/questions/64702835/how-to-let-new-and-old-subscribers-sign-up-to-a-mailchimp-segment/65491480#65491480)
-- [Answer by Nikhil Gupta for How can I receive a notification every time someone sign up through my MailChimp form?](https://stackoverflow.com/questions/64915742/how-can-i-receive-a-notification-every-time-someone-sign-up-through-my-mailchimp/65491405#65491405)
-<!-- STACKOVERFLOW:END -->
-
----
-
-### 📺 Latest Videos
-
-<!-- YOUTUBE:START -->
-
-- [Aakash&#39;s COVID Fundraiser for the People of India](https://www.youtube.com/watch?v=tasWbdU5z68)
-- [Build and Tune Your Deep Learning Models Effectively Part 1A](https://www.youtube.com/watch?v=MNM95uO9-xs)
-- [Forecasting the Next Recession &lpar;Final&rpar;](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
-- [Forecasting the Next Recession &lpar;Preliminary Univariate and EDA&rpar;](https://www.youtube.com/watch?v=uerDq3WoMO8)
-<!-- YOUTUBE:END -->
-- [Image Segmentation Deepdive](https://zoom.us/rec/share/1MJ1EpH77U9JTYnx82f5fI0LHL7Zaaa81XBMq6cEmJpH3jXbpNR1ecPwAqKPC14?startTime=1574024696000)
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ngupta23&count_private=true&theme=radical&show_icons=true&hide_border=true" />
-
-[github]: https://github.com/ngupta23
-[youtube]: https://www.youtube.com/channel/UCDB-YwusJ60Kly2rcGKSsmQ/
-[stackoverflow]: https://stackoverflow.com/users/8925915/nikhil-gupta
-[linkedin]: https://www.linkedin.com/in/guptanick/
+[github]: https://github.com/drag88
+[linkedin]: https://www.linkedin.com/in/aswinsreenivas/
