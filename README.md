@@ -35,7 +35,7 @@ Additionally, I hold the perspective that cutting-edge algorithms are not always
 
 ### Connect with me:
 
-[<img align="left" alt="Aswin | LinkedIn" width="32px" src="https://github.com/ngupta23/ngupta23/blob/master/logo/linkedin/LI-In-Bug.png"/>][linkedin]
+[<img align="left" alt="Aswin | LinkedIn" width="32px" src="https://github.com/drag88/drag88/blob/master/logo/linkedin/LI-In-Bug.png"/>][linkedin]
 
 [github]: https://github.com/drag88
 [linkedin]: https://www.linkedin.com/in/aswinsreenivas/
