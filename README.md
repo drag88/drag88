@@ -19,7 +19,7 @@ Additionally, I hold the perspective that cutting-edge algorithms are not always
 
 - :sparkles: My personal goals include developing solutions and frameworks that solve a real world problem or improves decision making in our daily lives.
 
-- :sparkles: In my spare time, I volunteer for General Assembly focussing on educating and empowering individuals with data skills.
+- :sparkles: In my spare time, I read and volunteer for General Assembly focusing on educating and empowering individuals with data skills.
 
 - :sparkles: I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/drag88/datascience_knowledge_repo).
 
@@ -35,7 +35,7 @@ Additionally, I hold the perspective that cutting-edge algorithms are not always
 
 ### Connect with me:
 
-[<img align="left" alt="Aswin | LinkedIn" width="32px" src="https://github.com/drag88/drag88/blob/master/logo/linkedin/LI-In-Bug.png"/>][linkedin]
+[<img align="left" alt="Nikhil | LinkedIn" width="32px" src="https://github.com/drag88/drag88/blob/main/logo/linkedin/LI-In-Bug.png" />][linkedin]
 
 [github]: https://github.com/drag88
 [linkedin]: https://www.linkedin.com/in/aswinsreenivas/
