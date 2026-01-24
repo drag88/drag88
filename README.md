@@ -6,27 +6,29 @@
 
 ## Hi, I'm Aswin
 
-**I am an impact-driven data professional focused on solving real-world problems through the art and science of data.**
+**Data & AI Engineer** | 10+ years shipping ML systems in financial services | Singapore
 
-I believe models and frameworks are only valuable when they solve genuine problems. My approach: understand the core business need first, then build the right solution. While cutting-edge algorithms have their place (especially in vision and NLP), I've found that traditional methods with strong domain-specific feature engineering often deliver the best results.
+I build production systems that solve real problems. My work spans the full spectrum—from classical ML pipelines processing millions of transactions to LLM-powered agents that automate complex workflows. I care about systems that actually work in production, not just notebooks that demo well.
 
-### What I'm Working On
+After a decade in banking and insurance, I've learned that the best solutions often combine battle-tested statistical methods with modern AI capabilities. The magic isn't in choosing one over the other—it's knowing when to use which.
 
-- Building AI agents and developer tools with Claude and LLMs
-- Developing end-to-end ML pipelines for production systems
-- Creating frameworks that bridge traditional ML with modern AI capabilities
-- Contributing to the data science community through teaching and open source
+---
 
-### Featured Projects
+### Currently Building
 
-| Project | Description |
-|---------|-------------|
-| [claude-dev-framework](https://github.com/drag88/claude-dev-framework) | Development framework for building Claude Code plugins, agents, and skills |
-| [claude-memory-system](https://github.com/drag88/claude-memory-system) | Persistent memory and context management system for AI agents |
-| [E2ETabularMLPipeline](https://github.com/drag88/E2ETabularMLPipeline) | Generalized end-to-end pipeline for structured ML use cases |
-| [claude-code-agents](https://github.com/drag88/claude-code-agents) | Collection of specialized agents for Claude Code automation |
-| [datascience_knowledge_repo](https://github.com/drag88/datascience_knowledge_repo) | Curated resources, tutorials, and best practices for data enthusiasts |
-| [medication_reminder_bot](https://github.com/drag88/medication_reminder_bot) | Telegram bot for medication reminders |
+**[Uplyft Tech](https://github.com/uplyfttech)** — Co-founding an AI-native e-commerce platform
+
+Building the intelligence layer for online retail. Our stack includes Synapse (multi-source data ingestion with AI enrichment), Beacon (semantic search and conversational shopping), and deep Shopify integrations. We're solving the problem of making e-commerce data actually useful—turning raw product catalogs and customer behavior into actionable intelligence.
+
+**Claude Code Ecosystem** — Developer tooling for AI agents
+
+Creating frameworks, plugins, and memory systems that extend Claude's capabilities. This includes persistent context management for long-running agents, specialized task agents, and development workflows that make building with LLMs more practical.
+
+**ML Infrastructure** — Production pipelines at scale
+
+End-to-end systems for model training, deployment, and monitoring. Focus on making ML reproducible, observable, and maintainable—the unglamorous work that separates POCs from production.
+
+---
 
 ### Tech Stack
 
