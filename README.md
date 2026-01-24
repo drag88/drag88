@@ -1,43 +1,58 @@
 <p align="center">
-  <a href="http://www.linkedin.com/in/aswinsreenivas" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Aswin-blue?logo=linkedin" /></a>
-  <a href="https://twitter.com/drag88" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Aswin-blue?logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/aswinsreenivas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/drag88" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=drag88&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
-## Hi there, I'm Aswin 🙌. Welcome to my Github page!
+## Hi, I'm Aswin
 
-**I am an "impact driven" data professional focused on solving real world problems leveraging art and science of data.**
+**I am an impact-driven data professional focused on solving real-world problems through the art and science of data.**
 
-The approach I take towards problem solving is driven by the belief that models and frameworks are only valuable if they are adding value to solving a genuine issue. As such, when tackling any such task, I prioritize identifying the core (business) need before delving into the model building aspect.
+I believe models and frameworks are only valuable when they solve genuine problems. My approach: understand the core business need first, then build the right solution. While cutting-edge algorithms have their place (especially in vision and NLP), I've found that traditional methods with strong domain-specific feature engineering often deliver the best results.
 
-Additionally, I hold the perspective that cutting-edge algorithms are not always essential for resolving problems. Sure, there are certain areas such as image recognition and NLP where conventional methods may fall short. However, based on my experience across various projects, I've found that a majority of use cases can be handled more effectively with traditional methods and algorithms (linear/tree based), as long as sufficient effort is invested in the process of domain-specific feature engineering.
+### What I'm Working On
 
-### Some facts about me:
+- Building AI agents and developer tools with Claude and LLMs
+- Developing end-to-end ML pipelines for production systems
+- Creating frameworks that bridge traditional ML with modern AI capabilities
+- Contributing to the data science community through teaching and open source
 
-- :sparkles: I possess a comprehensive understanding of various data domains, including data engineering, business intelligence, business analytics, data science, and machine learning. Additionally, I have experience in managing DevOps and MLOps for machine learning projects.
+### Featured Projects
 
-- :sparkles: I have a Masters in Business Analytics from National University of Singapore and have been working in the Financial Services industries (banking and insurance) for more than a decade.
+| Project | Description |
+|---------|-------------|
+| [claude-dev-framework](https://github.com/drag88/claude-dev-framework) | Development framework for building Claude Code plugins, agents, and skills |
+| [claude-memory-system](https://github.com/drag88/claude-memory-system) | Persistent memory and context management system for AI agents |
+| [E2ETabularMLPipeline](https://github.com/drag88/E2ETabularMLPipeline) | Generalized end-to-end pipeline for structured ML use cases |
+| [claude-code-agents](https://github.com/drag88/claude-code-agents) | Collection of specialized agents for Claude Code automation |
+| [datascience_knowledge_repo](https://github.com/drag88/datascience_knowledge_repo) | Curated resources, tutorials, and best practices for data enthusiasts |
+| [medication_reminder_bot](https://github.com/drag88/medication_reminder_bot) | Telegram bot for medication reminders |
 
-- :sparkles: My personal goals include developing solutions and frameworks that solve a real world problem or improves decision making in our daily lives.
+### Tech Stack
 
-- :sparkles: In my spare time, I read and volunteer for General Assembly focusing on educating and empowering individuals with data skills.
+**Languages:** Python, R, SQL, Spark
 
-- :sparkles: I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/drag88/datascience_knowledge_repo).
+**ML/AI:** Scikit-learn, XGBoost, LightGBM, PyTorch, LangChain, Claude API
 
-### Languages and Tools:
+**Cloud & MLOps:** AWS, SageMaker, Docker, MLflow, Airflow
 
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][github]
-[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][github]
-[<img align="left" alt="Spark" width="32px" src="https://github.com/drag88/drag88/blob/main/logo/spark/spark_logo.png" />][github]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+**Tools:** Git, Jupyter, VS Code, dbt
 
-<br />
+---
 
-### Connect with me:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drag88&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-[<img align="left" alt="Aswin | LinkedIn" width="32px" src="https://github.com/drag88/drag88/blob/main/logo/linkedin/LI-In-Bug.png" />][linkedin]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drag88&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
-[github]: https://github.com/drag88
-[linkedin]: https://www.linkedin.com/in/aswinsreenivas/
+---
 
-<br />
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aswinsreenivas"><img src="https://img.shields.io/badge/LinkedIn-aswinsreenivas-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/drag88"><img src="https://img.shields.io/badge/Twitter-@drag88-1DA1F2?logo=twitter&logoColor=white" /></a>
+</p>
