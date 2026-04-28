@@ -4,7 +4,6 @@
 
 <p>
   <a href="https://withlumen.ai"><img src="https://img.shields.io/badge/LUMEN-See%20where%20AI%20sees%20you-00FF41?style=for-the-badge&labelColor=000000&logoColor=00FF41" alt="Lumen" /></a>
-  <a href="https://uplyft.ai"><img src="https://img.shields.io/badge/UPLYFT-AI%20commerce-00FF41?style=for-the-badge&labelColor=000000&logoColor=00FF41" alt="Uplyft" /></a>
   <a href="https://www.linkedin.com/in/aswinsreenivas"><img src="https://img.shields.io/badge/LINKEDIN-aswinsreenivas-00FF41?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
   <a href="https://x.com/drag88"><img src="https://img.shields.io/badge/X-@drag88-00FF41?style=for-the-badge&labelColor=000000&logo=x&logoColor=00FF41" alt="X" /></a>
 </p>
@@ -16,14 +15,20 @@
 ### `> whoami`
 
 ```bash
-$ cat about.md
+$ whoami
+Aswin
+$ cat bio.md
 ```
 
-I build AI agents and the infrastructure to ship them.
+Two things keep me busy.
 
-By day, I run data for the consumer business at **StarHub** in Singapore. Five teams, four brands, an active migration off legacy infrastructure. By night, I shipped **[Uplyft](https://uplyft.ai)** (AI-native Shopify commerce) and now build **[Lumen](https://withlumen.ai)** (AI visibility intelligence for brands).
+**StarHub.** Head of Data for the consumer business at Singapore's telco. Twelve plus years turning messy data into decisions businesses can actually act on, and more recently arming those same businesses with AI and automation so the work compounds instead of repeats. Telco today, insurance and consulting before that. Different industries, same job: make the org sharper.
 
-Same conviction underneath all of it. The next layer of the internet is agents reading and writing on behalf of humans, and most of the tooling for that layer is still missing. The repos below are my contribution to filling that gap.
+**Lumen** ([withlumen.ai](https://withlumen.ai/)). We measure how brands appear inside ChatGPT, Claude, Gemini, and Perplexity. Citation rate, sentiment, share of voice, position. SEO told you what Google thought of you. Lumen tells you what the models think of you. Different signal, different game, and the brands that figure it out first will eat.
+
+Before Lumen there was [Uplyft](https://uplyft.ai/), an AI search layer for Shopify. Shipped it, learned a lot, wound it down. The lessons live in Lumen.
+
+The repos below are pieces of all of this. Some are scaffolding. Some are tools I needed and could not find. Some are bets that did not pan out but stayed public anyway. Nothing here is finished.
 
 <br/>
 
@@ -61,8 +66,6 @@ Same conviction underneath all of it. The next layer of the internet is agents r
 ### `> tail -f current_work`
 
 **[Lumen](https://withlumen.ai)** is AI visibility intelligence. It probes ChatGPT, Claude, Gemini, and Perplexity at scale, attributes brand presence to revenue, and surfaces concrete fixes. The interesting engineering problems are stable measurement across non-deterministic LLMs, evaluation pipelines that grade themselves, and an attribution model that maps mentions to dollars.
-
-**[Uplyft](https://uplyft.ai)** is AI-native commerce. Semantic search and agent-ready product data for Shopify. The retrieval layer Lumen sits on. Embeddings, reranking, and a structured catalog representation an agent can actually use end-to-end.
 
 <br/>
 
