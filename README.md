@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Aswin Sreenivas — data systems, applied AI, and agent tooling" src="./assets/profile-light.svg" width="100%">
-</picture>
+<img src="./assets/status-orb.svg" alt="An animated alphanumeric orb beside the words Building — data, AI, agents" width="100%">
 
 ## I build data systems and AI products that have to work in the real world.
 
