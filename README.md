@@ -2,7 +2,7 @@
 
 **Head of Data and AI at StarHub. Founder of [Lumen](https://withlumen.ai/). A builder who still likes taking things apart to see how they work.**
 
-I grew up in Calicut, Kerala, and Singapore is home now. Over the past 12+ years, I have worked across banking, consulting, insurance, and telecom in India, Australia, and Singapore.
+Over the past 12+ years, I have worked across banking, consulting, insurance, and telecom.
 
 At StarHub, I lead Consumer Data and AI across data engineering, business intelligence, business analytics, and data science. The job is simple to describe and hard to do: give the business numbers it can trust, put useful models into production, and turn customer signals into better decisions.
 
@@ -20,8 +20,6 @@ I started by modding Android phones. The habit of opening things up, figuring ou
 
 Most of my work uses Python, SQL, Snowflake, dbt, AWS, TypeScript, and Next.js. I care most about whether the thing gets used.
 
-## Away from work
+## Writing and links
 
-I travel with a camera, look for good speciality coffee and craft beer, follow Formula 1 (usually Lewis Hamilton), and occasionally make cocktails with more precision than the situation requires.
-
-I share work updates on [LinkedIn](https://www.linkedin.com/in/aswinsreenivas), longer notes on [Substack](https://substack.com/@drag88), shorter thoughts on [X](https://x.com/drag88), and photographs on [Unsplash](https://unsplash.com/@drag88).
+I share work updates on [LinkedIn](https://www.linkedin.com/in/aswinsreenivas), longer technical notes on [Substack](https://substack.com/@drag88), and shorter thoughts on [X](https://x.com/drag88).
