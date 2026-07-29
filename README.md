@@ -1,14 +1,24 @@
-# Aswin Sreenivas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="Aswin Sreenivas — data systems, applied AI, and agent tooling" src="./assets/profile-light.svg" width="100%">
+</picture>
 
-**Head of Data and AI at StarHub. Founder of [Lumen](https://withlumen.ai/). A builder who still likes taking things apart to see how they work.**
+## I build data systems and AI products that have to work in the real world.
 
-Over the past 12+ years, I have worked across banking, consulting, insurance, and telecom.
+I lead Consumer Data and AI at StarHub across data engineering, business intelligence, business analytics, and data science. Over the past 12+ years, I have worked across banking, consulting, insurance, and telecom.
 
-At StarHub, I lead Consumer Data and AI across data engineering, business intelligence, business analytics, and data science. The job is simple to describe and hard to do: give the business numbers it can trust, put useful models into production, and turn customer signals into better decisions.
+I also build [Lumen](https://withlumen.ai/), an AI visibility platform that shows brands how they appear across ChatGPT, Claude, Gemini, and Perplexity. Most of my work lives where data platforms, machine learning systems, and product decisions meet.
 
-Outside the day job, I am building [Lumen](https://withlumen.ai/), an AI visibility platform that shows brands how they appear across ChatGPT, Claude, Gemini, and Perplexity. Before Lumen, I built Uplyft, an AI search layer for Shopify. We wound that product down, but a lot of what we learned lives on in Lumen.
+I started by modding Android phones. Looking under the hood eventually became a career.
 
-I started by modding Android phones. The habit of opening things up, figuring out how they work, and building a better version never really left.
+## Current focus
+
+| Mode | What I am working on |
+| --- | --- |
+| `operate` | Modernising enterprise data platforms and putting analytics and ML into production at StarHub. |
+| `build` | Making AI visibility measurable and useful to businesses through [Lumen](https://withlumen.ai/). |
+| `open-source` | Building better workflows, memory, and review tools for coding agents. |
 
 ## Selected work
 
@@ -18,8 +28,10 @@ I started by modding Android phones. The habit of opening things up, figuring ou
 | [Report Annotator](https://github.com/drag88/report-annotator) | A dependency-free browser tool for reviewing HTML reports and exporting structured feedback. |
 | [Claude Memory System](https://github.com/drag88/claude-memory-system) | A portable, file-based workflow and memory system for coding agents. |
 
-Most of my work uses Python, SQL, Snowflake, dbt, AWS, TypeScript, and Next.js. I care most about whether the thing gets used.
+## Working set
+
+`Python` · `SQL` · `Snowflake` · `dbt` · `AWS` · `TypeScript` · `Next.js` · `LLM evaluation` · `agent tooling`
 
 ## Writing and links
 
-I share work updates on [LinkedIn](https://www.linkedin.com/in/aswinsreenivas), longer technical notes on [Substack](https://substack.com/@drag88), and shorter thoughts on [X](https://x.com/drag88).
+[LinkedIn](https://www.linkedin.com/in/aswinsreenivas) · [Substack](https://substack.com/@drag88) · [X](https://x.com/drag88) · [Lumen](https://withlumen.ai/)
