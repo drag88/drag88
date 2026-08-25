@@ -1,42 +1,33 @@
-<!-- The portrait is generated from my current GitHub avatar and animated as a small terminal loop. -->
+<img src="./assets/status-orb.svg" alt="An animated alphanumeric orb beside the words Building — data, AI, agents" width="100%">
 
-<table>
-  <tr>
-    <td width="46%" align="center" valign="top">
-      <img src="./assets/ascii-face.gif" width="390" alt="Animated ASCII portrait of Aswin Sreenivas" />
-    </td>
-    <td width="54%" valign="top">
-      <pre>
-aswin@github ~ % whoami
-Aswin Sreenivas
+## I build data systems and AI products that have to work in the real world.
 
-role      Head of Data &amp; AI, Consumer Business @ StarHub
-base      Singapore
-side      Lumen
-focus     data platforms, customer analytics, AI visibility
-stack     Python / SQL / Snowflake / dbt
-curious   F1 / cocktails / long-term bets
-      </pre>
-    </td>
-  </tr>
-</table>
+I lead Consumer Data and AI at StarHub across data engineering, business intelligence, business analytics, and data science. Over the past 12+ years, I have worked across banking, consulting, insurance, and telecom.
 
-## The short version
+I also build [Lumen](https://withlumen.ai/), an AI visibility platform that shows brands how they appear across ChatGPT, Claude, Gemini, and Perplexity. Most of my work lives where data platforms, machine learning systems, and product decisions meet.
 
-I lead Consumer Data and AI for the [StarHub](https://www.starhub.com/) consumer business. A lot of the job is getting the data, the model, and the decision to agree with one another. That work is usually less glamorous than the demo, which is part of why I like it.
+I started by modding Android phones. Looking under the hood eventually became a career.
 
-I also co-founded [Lumen](https://withlumen.ai/), which measures how brands appear in AI search. A score is only useful if it changes what someone does next. That is the problem I am working on there.
+## Current focus
 
-I started by modding Android phones, then took the long route through banking, insurance, and telecom. Looking under the hood is still the basic instinct.
+| Mode | What I am working on |
+| --- | --- |
+| `operate` | Modernising enterprise data platforms and putting analytics and ML into production at StarHub. |
+| `build` | Making AI visibility measurable and useful to businesses through [Lumen](https://withlumen.ai/). |
+| `open-source` | Building better workflows, memory, and review tools for coding agents. |
 
-## What I keep here
+## Selected work
 
-The unglamorous edges of agent work: remembering context, making review loops explicit, and turning a browser report into something a person can act on.
+| Project | What it does |
+| --- | --- |
+| [Claude Dev Framework](https://github.com/drag88/claude-dev-framework) | A development framework that gives coding agents a structured engineering loop across Claude Code and Codex. |
+| [Report Annotator](https://github.com/drag88/report-annotator) | A dependency-free browser tool for reviewing HTML reports and exporting structured feedback. |
+| [Claude Memory System](https://github.com/drag88/claude-memory-system) | A portable, file-based workflow and memory system for coding agents. |
 
-- [Claude Dev Framework](https://github.com/drag88/claude-dev-framework) for a structured engineering loop around coding agents.
-- [Report Annotator](https://github.com/drag88/report-annotator) for reviewing HTML reports and recording feedback without a backend.
-- [Claude Memory System](https://github.com/drag88/claude-memory-system) for file-based context that survives the session that created it.
+## Working set
 
-## Elsewhere
+`Python` · `SQL` · `Snowflake` · `dbt` · `AWS` · `TypeScript` · `Next.js` · `LLM evaluation` · `agent tooling`
+
+## Writing and links
 
 [LinkedIn](https://www.linkedin.com/in/aswinsreenivas) · [Substack](https://substack.com/@drag88) · [X](https://x.com/drag88) · [Lumen](https://withlumen.ai/)
