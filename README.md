@@ -2,18 +2,19 @@
 
 <table>
   <tr>
-    <td width="43%" align="center" valign="top">
-      <img src="./assets/ascii-face.gif" width="350" alt="Animated ASCII portrait of Aswin Sreenivas" />
+    <td width="46%" align="center" valign="top">
+      <img src="./assets/ascii-face.gif" width="390" alt="Animated ASCII portrait of Aswin Sreenivas" />
     </td>
-    <td width="57%" valign="top">
+    <td width="54%" valign="top">
       <pre>
 aswin@github ~ % whoami
 Aswin Sreenivas
 
-work      Consumer Data &amp; AI @ StarHub
+role      Head of Data &amp; AI, Consumer Business @ StarHub
 base      Singapore
-building  Lumen
-tools     Python / SQL / Snowflake / dbt
+side      Lumen
+focus     data platforms, customer analytics, AI visibility
+stack     Python / SQL / Snowflake / dbt
 curious   F1 / cocktails / long-term bets
       </pre>
     </td>
@@ -22,18 +23,18 @@ curious   F1 / cocktails / long-term bets
 
 ## The short version
 
-I lead Consumer Data and AI for the [StarHub](https://www.starhub.com/) consumer business. Most of the work is connective: definitions that survive a handoff, pipelines people trust, and models that change a decision.
+I lead Consumer Data and AI for the [StarHub](https://www.starhub.com/) consumer business. A lot of the job is getting the data, the model, and the decision to agree with one another. That work is usually less glamorous than the demo, which is part of why I like it.
 
-I co-founded [Lumen](https://withlumen.ai/), a tool for measuring how brands show up in AI search. The useful question is what a score changes in the next workday, not whether it looks impressive in a dashboard.
+I also co-founded [Lumen](https://withlumen.ai/), which measures how brands appear in AI search. A score is only useful if it changes what someone does next. That is the problem I am working on there.
 
-I started with Android modding and later worked across banking, insurance, and telecom. I still prefer opening the hood to guessing from the dashboard.
+I started by modding Android phones, then took the long route through banking, insurance, and telecom. Looking under the hood is still the basic instinct.
 
 ## What I keep here
 
-Most of these repos started with a small annoyance: an agent forgot useful context, a report had no review trail, or a polished result gave nobody a next step.
+The unglamorous edges of agent work: remembering context, making review loops explicit, and turning a browser report into something a person can act on.
 
-- [Claude Dev Framework](https://github.com/drag88/claude-dev-framework) for an opinionated loop around coding agents.
-- [Report Annotator](https://github.com/drag88/report-annotator) for reviewing HTML reports locally and keeping the feedback with the report.
+- [Claude Dev Framework](https://github.com/drag88/claude-dev-framework) for a structured engineering loop around coding agents.
+- [Report Annotator](https://github.com/drag88/report-annotator) for reviewing HTML reports and recording feedback without a backend.
 - [Claude Memory System](https://github.com/drag88/claude-memory-system) for file-based context that survives the session that created it.
 
 ## Elsewhere
